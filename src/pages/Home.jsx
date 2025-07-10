@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from '../components/navbar'
+import Navbar from '../components/Navbar'
 import Coinarea from '../components/Coinarea'
 import Footer from '../components/Footer'
 const Home = () => {

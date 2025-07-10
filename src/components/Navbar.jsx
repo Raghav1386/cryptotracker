@@ -1,4 +1,3 @@
-// src/components/Navbar.jsx
 import React, { useContext, useState } from "react";
 import { Coins, Search } from "lucide-react";
 import { CryptoContext } from "../context/CryptoContext";
